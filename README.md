@@ -1,7 +1,7 @@
 # Pattern Cloud
 Browser-based image, video rendering cloud interface for Blender (and eventually other 3D design, animation, and simulation packages). 
 
-Steps to use:\
+Steps to use:
 
 1.) Download Blackhole.blend or select your own Blender project\
 2.) Open BlenderColab.ipynb\
