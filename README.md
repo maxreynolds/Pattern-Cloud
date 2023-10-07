@@ -1,5 +1,5 @@
 # Pattern Cloud
-Browser-based image, video rendering cloud interface for Blender (and eventually other 3D design, animation, and simulation packages). 
+Browser-based image dataset generation framewrk supporting Stable Diffusion, Blender and eventually other 3D design, animation, and simulation packages.
 
 Steps to use:
 
