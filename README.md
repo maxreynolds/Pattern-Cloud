@@ -1,5 +1,5 @@
 # Pattern Cloud
-Browser-based image dataset amplification framework supporting Stable Diffusion, Blender and eventually other 3D design, animation, and simulation packages.
+Browser-based image dataset amplification framework supporting Blender, Stable Diffusion and eventually other 3D design, animation, and simulation packages.
 
 Steps to use:
 
